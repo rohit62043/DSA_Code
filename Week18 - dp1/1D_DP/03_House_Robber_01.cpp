@@ -1,3 +1,4 @@
+//Maximum sum of non adjecent element
 class Solution {
 public:
 //n -> represents the index of current house
